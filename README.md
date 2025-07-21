@@ -1,19 +1,45 @@
-<h1 align="center">Hi 👋, I'm B!G_CASS💯🔥</h1>
-<h3 align="center">A passionate cyber security analyst from Nigeria</h3>
+<h1>👋 Hi, Klaus</h1>
 
-- 🌱 I’m currently learning **Cyber security**
+<p>🎓 A curious learner, <strong>Cybersecurity student</strong>, and certified <strong>Python developer</strong>.<br>
+💻 I build things with code — from desktop apps to backend systems — and I’m diving deep into the world of cybersecurity.<br>
+🔒 Passionate about digital safety, clean code, and problem solving.</p>
 
-- 📫 How to reach me **abdultawwabayotunde1@gmail.com**
+<hr>
 
-- 📄 Know about my experiences [Student](Student)
+<h2>🛠️ Technologies & Skills</h2>
+<ul>
+<li><strong>Languages:</strong> Python, HTML, CSS, JavaScript (basic)</li>
+<li><strong>Tools:</strong> Git, GitHub, Tkinter, VS Code</li>
+<li><strong>Cybersecurity:</strong> Network security fundamentals, mobile & wireless threats</li>
+<li><strong>Others:</strong> Background removal, blog commenting (freelance services)</li>
+</ul>
 
-- ⚡ Fun fact **Am a nice guy**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/ifehmhideh gr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ifehmhideh gr" height="30" width="40" /></a>
-</p>
+<h2>🚀 Projects</h2>
+<ul>
+<li>🎯<strong>Quiz App</strong> – Built with Python + Tkinter; includes subject selection, GUI design, and scoring</li>
+<li>🛡️<strong>Cybercrime Study Tools</strong> – Notes and practice tools for mobile/wireless device security</li>
+<li>✂️<strong>Freelance Tools</strong> – Background remover tool and auto blog-commenting scripts</li>
+</ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
 
+<h2>🌐 Let's Connect</h2>
+<ul>
+<li>📫<strong>Email:</strong><a href="mailto:abdultawwabayotunde1@gmail.com">abdultawwabayotunde1@gmail.com</a></li>
+<li>💬<strong>WhatsApp:</strong><a href="https://wa.me/2349032483217" target="_blank">Click to Chat</a></li>
+<li>🎯<strong>Fiverr:</strong><a href="https://www.fiverr.com/mrreliable" target="_blank">www.fiverr.com/mrreliable</a></li>
+<li>📘<strong>Facebook Business Page:</strong><a href="https://www.facebook.com/profile.php?id=61570952414064" target="_blank">facebook.com@Mrreliable</a></li>
+</ul>
+
+<hr>
+
+<h2>🎯 Goals</h2>
+<ul>
+<li>💡 Learn ethical hacking and advanced Python</li>
+<li>🚀 Build real-world cybersecurity tools</li>
+<li>🌍 Help small businesses stay secure online</li>
+</ul>
+
+<blockquote><em>“Code, learn, protect — repeat.” 🚀</em></blockquote>
