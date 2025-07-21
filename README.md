@@ -1,4 +1,4 @@
-<h1>👋 Hi, Klaus</h1>
+<h1>👋 Hi, I'm KLAUS</h1>
 
 <p>🎓 A curious learner, <strong>Cybersecurity student</strong>, and certified <strong>Python developer</strong>.<br>
 💻 I build things with code — from desktop apps to backend systems — and I’m diving deep into the world of cybersecurity.<br>
